@@ -1,0 +1,525 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.shape {
+}
+.image {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.weui_font_light40pt {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:40px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_medium20pt {
+  font-size:20px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_regular17pt {
+  font-size:17px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_regular18pt {
+  font-size:18px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_regular14pt {
+  font-size:14px;
+  color:#A0A0A0;
+  text-align:left;
+}
+.weui_font_normal14pt {
+  font-size:14px;
+  text-align:left;
+}
+.weui_font_regular13pt {
+  font-size:13px;
+  color:#576B95;
+  text-align:left;
+}
+.weui_font_regular11pt {
+  font-size:13px;
+  color:#B4B4B4;
+  text-align:left;
+}
+.weui_color_09bb07 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_353535 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_888888 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_576b95 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_background {
+  font-size:36px;
+  color:#B2B2B2;
+}
+.weui_color_576b95_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_576b95_disabled {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_09bb07_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_09bb07_disable {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340_press {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_color_e64340_disable {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_button_primary_normarl {
+  font-size:18px;
+  color:#FFFFFF;
+}
+.weui_button_primary_hl {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_primary_disabled {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.weui_button_default_normarl {
+  font-size:18px;
+  color:#000000;
+}
+.weui_button_default_hl {
+  font-size:18px;
+  color:rgba(0, 0, 0, 0.6);
+}
+.weui_button_default_disabled {
+  font-size:18px;
+  color:rgba(0, 0, 0, 0.298039215686275);
+}
+.weui_button_warning_disabled {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.weui_button_warning_hl {
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_warning_normarl {
+  font-size:18px;
+  color:#FFFFFF;
+}
+.weui_button_primary_mini_hl {
+  font-size:13px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_primary_mini_normarl {
+  font-size:13px;
+  color:#FFFFFF;
+}
+.weui_button_primary_mini_disabled {
+  font-size:13px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.weui_button_warning_mini_normarl {
+  font-size:13px;
+  color:#FFFFFF;
+}
+.weui_button_warning_mini_hl {
+  font-size:13px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_warning_mini_disabled {
+  font-size:13px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.weui_button_default_mini_normarl {
+  font-size:13px;
+  color:#000000;
+}
+.weui_button_default_mini_hl {
+  font-size:13px;
+  color:rgba(0, 0, 0, 0.6);
+}
+.weui_button_default_mini_disabled {
+  font-size:13px;
+  color:rgba(0, 0, 0, 0.298039215686275);
+}
+.weui_button_primary_medium_normarl {
+  font-size:16px;
+  color:#FFFFFF;
+}
+.weui_button_primary_medium_hl {
+  font-size:16px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.weui_button_primary_medium_disabled {
+  font-size:16px;
+  color:rgba(255, 255, 255, 0.6);
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+._流程形状 {
+}
+._连接线 {
+}
+.menu_item {
+}
+._图片 {
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._图片1 {
+  color:#000000;
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#4E8EFF;
+  text-align:center;
+  line-height:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._水平线 {
+}
+.icon {
+}
+._图片2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+._形状1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.flow_shape {
+}
+.weui_button_line_medium_normarl {
+  font-size:16px;
+  color:#010101;
+}
+.weui_button_line_second_medium_normal {
+  font-size:16px;
+  color:#09BB07;
+}
+.weui_button_line_second_medium_hl {
+  font-size:16px;
+  color:rgba(51, 102, 0, 0.6);
+}
+.weui_button_line_medium_hl {
+  font-size:16px;
+  color:rgba(1, 1, 1, 0.6);
+}
+.weui_button_line_medium_disabled {
+  font-size:16px;
+  color:rgba(1, 1, 1, 0.298039215686275);
+}
+.weui_title_white_18pt {
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.weui_title_black_18pt {
+  font-size:18px;
+  color:#353535;
+  text-align:left;
+}
+.weui_font_tabbar {
+  font-size:10px;
+  color:#808080;
+  text-align:center;
+}
+.weui_face_bg {
+}
+.weui_face_title {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.weui_toast_bg {
+}
+.weui_font_popup_normal14pt {
+  font-size:14px;
+  color:#1C1C1C;
+  text-align:center;
+  line-height:18px;
+}
+.weui_font_popup_title_regular17pt {
+  font-size:17px;
+  color:#353535;
+  text-align:center;
+}
+.weui_font_popup_ok_btn {
+  font-size:17px;
+  color:#09BB07;
+  text-align:center;
+}
+.weui_font_popup_text_regular14pt {
+  font-size:14px;
+  color:#A0A0A0;
+  text-align:center;
+}
+.weui_font_popup_no_btn {
+  font-family:'苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#222222;
+  text-align:center;
+}
+.weui_font_list_regular17pt {
+  font-size:17px;
+  color:#999999;
+  text-align:left;
+}
+.weui_img {
+}
+.weui_mask {
+  font-size:36px;
+  color:#B2B2B2;
+}
+.weui_font_normal13pt {
+  font-size:13px;
+  color:#A0A0A0;
+  text-align:left;
+}
+.weui_color_deleteff3b30 {
+}
+.weui_font_label14pt {
+  font-size:14px;
+  color:#808080;
+  text-align:left;
+}
+.weui_font_artice15pt {
+  font-size:15px;
+  color:#353535;
+  text-align:left;
+}
+.weui_label_normal_green {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_label_light_green {
+  font-size:12px;
+  color:#09BB07;
+}
+.weui_label_line_green {
+  font-size:12px;
+  color:#09BB07;
+}
+.weui_label_normal_red {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_label_light_red {
+  font-size:12px;
+  color:#E64340;
+}
+.weui_label_line_red {
+  font-size:12px;
+  color:#E64340;
+}
+.weui_label_normal_blue {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.weui_label_light_blue {
+  font-size:12px;
+  color:#576B95;
+}
+.weui_label_line_blue {
+  font-size:12px;
+  color:#576B95;
+}
+.weui_line_h {
+}
+.weui_line_step_h {
+}
+.weui_label_gray {
+  font-size:12px;
+  color:#333333;
+}
+.weui_label_gray_light {
+  font-size:12px;
+  color:#E64340;
+}
+.weui_item_selected {
+  font-size:17px;
+  color:#353535;
+  text-align:center;
+}
+.weui_item_unselected {
+  font-size:17px;
+  color:#888888;
+  text-align:center;
+}
+.weui_tab_nav_selected {
+  font-size:17px;
+  color:#353535;
+}
+.weui_tab_nav_unselected {
+  font-size:17px;
+  color:#353535;
+}
+.pa_步进器按钮 {
+  font-size:22px;
+  color:#222222;
+}
+._形状2 {
+  font-family:'Microsoft New Tai Lue';
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
+}
+._鼠标按下文本链接时 {
+}
